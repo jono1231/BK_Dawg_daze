@@ -1,8 +1,7 @@
 # Rolljam Attack on Automatic Door Lock
 
-## Overview
 
-### Script
+## Scripts
 
 #### Receiver.ino
 
